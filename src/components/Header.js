@@ -1,3 +1,5 @@
+//creating a header for our app
+
 import React from 'react';
 import menuLinksData from './data/menu_links.json'
 

@@ -1,3 +1,5 @@
+//we are creating a footer component 
+
 import React from 'react';
 
 const Footer = () => {
